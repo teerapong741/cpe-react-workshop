@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 30000, "category": "Electronics" },
+    { "id": 2, "name": "T-Shirt", "price": 500, "category": "Clothing" },
+    { "id": 3, "name": "Apple", "price": 30, "category": "Food" }
+  ],
+  "users": [
+    { "id": 1, "username": "admin", "password": "1234" }
+  ]
+}
